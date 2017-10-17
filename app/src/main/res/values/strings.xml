@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aeropuerto</string>
+    <string name="title_activity_maps">Aeropuerto</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="ubication">Mi ultima ubicación</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="temperature">Medir temperatura</string>
+</resources>
